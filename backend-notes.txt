@@ -1,0 +1,4 @@
+ What is backend development?
+- Backend development is building the part of an application that runs on a server, behind the interface users see.
+    It handles things like processing requests, applying business rules, storing and retrieving data,
+    user accounts, and sending responses to the browser.
